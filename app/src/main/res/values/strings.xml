@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Querying</string>
+    <string name="hint_search">Looking for…</string>
+    <string name="search">Search</string>
+    <string name="no_results">No Results were Found.</string>
+    <string name="loading">Loading…</string>
+    <string name="message_no_internet">Check Your Internet Connection, Please!</string>
+</resources>
